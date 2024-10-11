@@ -5,4 +5,4 @@ This section outlines a data mining approach to develop a model for electric veh
 
 ![Alt text](https://github.com/jpanzolaa/Method_PIA/blob/main/img/Fig01.png)
 
-
+The script that is responsible for carrying out the scraping process is with the data source: scraping.py
